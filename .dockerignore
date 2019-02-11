@@ -1,0 +1,9 @@
+vendor
+.idea
+.env
+public/.htaccess
+node_modules
+public/storage
+npm-debug.log
+yarn-error.log
+.htaccess
